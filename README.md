@@ -57,4 +57,14 @@
 
 [logo6]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen6.png
 
+#### 2.
+![alt text][logo20]
+
+[logo20]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen20.png
+
+#### 3.
+![alt text][logo23]
+
+[logo23]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen23.png
+
 ## 3. Résultat à fournir
