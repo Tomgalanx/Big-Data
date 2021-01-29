@@ -27,7 +27,7 @@
 #### 2.
 ![alt text][logo5]
 
-[logo1]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen5.png
+[logo5]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen5.png
 ![alt text][logo4]
 
 [logo4]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen4.png
