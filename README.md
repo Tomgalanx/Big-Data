@@ -37,6 +37,14 @@
 
 [logo11]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen11.png
 
+## Données
+
+#### Le fichiers de données faudra le coller dans le répértoire home, comme l'exemple ci-dessous avec le fichier "echantillon-flows.txt" :
+
+![alt text][logo7]
+
+[logo7]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen7.png
+
 ## Code
 
 #### Dans cette partie on trouve le programme que je vous mettrez aussi ci-joint:
@@ -127,5 +135,23 @@
 ![alt text][logo23]
 
 [logo23]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen23.png
+
+## Difficultés rencontrées
+
+### IntelliJ et JAVA
+
+#### Au début je voulais programmer en java mais j'ai rencontré un probléme de heap size que j'ai tenté de résoudre en consultant des forums et en cherchant sur internet mais sans parvenir à un résultat, apparemment mon ordinateur n'est pas assez puissant. Quand je mets le maximum du heap size cela ne change rien quand je le dépasse l'application ne démarre plus, donc j'ai remis le heap size initiale en modifiant directement dans les fichiers de config.
+
+![alt text][logo19]
+
+[logo19]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen19.png
+
+#### GraphFrame
+
+#### Comme alternative j'ai décidé de travailler sous google colab en utilisant pyspark et comme langage de programmation python. En essayant d'utiliser le package GraphFrame j'ai une erreur qui s'affiche me disant que org.graphframes.GraphFramePythonAPI est introuvable alors que je l'ai bien installé. Du coup j'arrive pas à executer une partie du programme, mais j'ai quand même essayé d'écrire du code un les connaissances assimilées durant le cours et les liens fournis ("GraphFrames User Guide" par exemple).
+
+![alt text][logo18]
+
+[logo18]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen18.png
 
 ## 3. Résultat à fournir
