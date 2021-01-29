@@ -32,6 +32,11 @@
 
 [logo4]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen4.png
 
+#### 3.
+![alt text][logo20]
+
+[logo20]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen20.png
+
 ### 2.5.2. Graphe 2
 
 ## 3. Résultat à fournir
