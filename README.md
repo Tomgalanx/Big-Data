@@ -22,7 +22,7 @@
 [logo1]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen1.png
 ![alt text][logo2]
 
-[logo2]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen1.png
+[logo2]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen2.png
 
 ### 2.5.2. Graphe 2
 
