@@ -3,6 +3,12 @@
 
 ## 1. Introduction
 
+Pour les 4 première parties, les outils utilisés pour le développement sont :
+
+- Intellij
+- Apache Spark SQL 2.12:3.0.1 (Ch.cern)
+- Java 13
+
 ## 2. Spark
 
 ### 2.1. Partie I
