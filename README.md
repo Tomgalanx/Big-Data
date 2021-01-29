@@ -7,13 +7,48 @@
 
 ### 2.1. Partie I
 
-Affichage du fichier
-![alt text] (https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/screen_premiere/P1/Q1.png)
+Q1. On affiche le flux
+![alt text](BigData_Project/screen_premiere/P1/Q1.png)
+
+
+Q2. On calcule l'occurence des strings
+![alt text](BigData_Project/screen_premiere/P1/Q2.png)
+
+Q3. On calcule l'occurence des integers
+![alt text](BigData_Project/screen_premiere/P1/Q3.png)
+
+
+Q4. On fait le max, min , mean ... avec ordinateur_source
+![alt text](BigData_Project/screen_premiere/P1/Q4.png)
+
+Q5. On calcule le nombre d'occurence des strings a partir de l'ordinateur_source
+![alt text](BigData_Project/screen_premiere/P1/Q5.png)
+
 ### 2.2. Partie II
+
+Q1. On calcule le nombre de connexion avec la paire ordinateur_source/ordinateur_destination
+
+![alt text](BigData_Project/screen_premiere/P2/Q1.png)
+
+Q2. Calcul des occurences strings pour la paire ordinateur_source/ordinateur_destination
+
+![alt text](BigData_Project/screen_premiere/P2/Q2.png)
+
+![alt text](BigData_Project/screen_premiere/P2/Q3.png)
+
+![alt text](BigData_Project/screen_premiere/P2/Q4.png)
 
 ### 2.2. Partie III
 
+Q1. Utilisation de boucle avec Apache Spark 
+
+![alt text](BigData_Project/screen_premiere/P3/Q1.png)
+
+![alt text](BigData_Project/screen_premiere/P3/Q2.png)
+
 ### 2.4. Partie IV
+
+Pour cette partie, nous avons repris la question précédente et nous avons rajouter une condition dans la boucle qui compare les secondes depuis 1970 en debut d'éxecution et les secondes depuis 1970 pendant l'éxectution
 
 ### 2.5. Partie V
 
