@@ -7,6 +7,7 @@
 
 ### 2.1. Partie I
 
+Affichage du fichier
 ![alt text] (https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/screen_premiere/P1/Q1.png)
 ### 2.2. Partie II
 
