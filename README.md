@@ -11,7 +11,7 @@ Q1. On affiche le flux
 ![alt text](BigData_Project/screen_premiere/P1/Q1.png)
 
 
-Q2. On calcule l'occurence des strings
+Q2. On calcule l'occurence des strings                                                                      
 ![alt text](BigData_Project/screen_premiere/P1/Q2.png)
 
 Q3. On calcule l'occurence des integers
@@ -42,9 +42,9 @@ Q2. Calcul des occurences strings pour la paire ordinateur_source/ordinateur_des
 
 Q1. Utilisation de boucle avec Apache Spark 
 
-![alt text](BigData_Project/screen_premiere/P3/Q1.png)
+![alt text](BigData_Project/screen_premiere/P3/1.png)
 
-![alt text](BigData_Project/screen_premiere/P3/Q2.png)
+![alt text](BigData_Project/screen_premiere/P3/2.png)
 
 ### 2.4. Partie IV
 
