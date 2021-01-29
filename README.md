@@ -7,7 +7,7 @@
 
 ### 2.1. Partie I
 
-![Alt text] (BigData_Project/screen_premiere/P1/Q1.png "OK")
+![alt text] (BigData_Project/screen_premiere/P1/Q1.png "OK")
 ### 2.2. Partie II
 
 ### 2.2. Partie III
