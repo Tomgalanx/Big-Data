@@ -39,6 +39,32 @@
 
 ## Code
 
+#### Dans cette partie on trouve le programme que je vous mettrez aussi ci-joint:
+
+![alt text][logo12]
+
+[logo12]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen12.png
+
+![alt text][logo13]
+
+[logo13]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen13.png
+
+![alt text][logo14]
+
+[logo14]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen14.png
+
+![alt text][logo15]
+
+[logo15]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen15.png
+
+![alt text][logo16]
+
+[logo16]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen16.png
+
+![alt text][logo17]
+
+[logo17]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen17.png
+
 ### 2.5.1. Graphe 1
 #### 1. Calculez le nombre de connexion d'un ordinateur source vers un ordinateur destination ainsi la moyenne (mean), somme ("sum"), standard déviation (stddev), minimum (min), maximum (max) des nombre de paquets.
 
