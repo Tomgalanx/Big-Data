@@ -25,9 +25,9 @@
 [logo2]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen2.png
 
 #### 2.
-![alt text][logo5]
+![alt text][logo3]
 
-[logo5]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen5.png
+[logo3]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen3.png
 ![alt text][logo4]
 
 [logo4]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen4.png
@@ -49,5 +49,12 @@
 [logo22]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen22.png
 
 ### 2.5.2. Graphe 2
+#### 1.
+![alt text][logo5]
+
+[logo5]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen5.png
+![alt text][logo6]
+
+[logo6]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen6.png
 
 ## 3. Résultat à fournir
