@@ -1,5 +1,5 @@
 # Projet Big-Data
-
+#### Réalisé par : Thomas GERPHANION et Wafaa LOUARRAT
 
 ## 1. Introduction
 
@@ -54,7 +54,7 @@ Q1. Utilisation de boucle avec Apache Spark
 
 ### 2.4. Partie IV
 
-Pour cette partie, nous avons repris la question précédente et nous avons rajouté une condition dans la boucle qui compare les secondes depuis 1970 en debut d'éxecution et les secondes depuis 1970 pendant l'éxectution
+Pour cette partie, nous avons repris la question précédente et nous avons rajouter une condition dans la boucle qui compare les secondes depuis 1970 en debut d'éxecution et les secondes depuis 1970 pendant l'éxectution
 
 ### 2.5. Partie V
 
