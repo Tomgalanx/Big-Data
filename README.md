@@ -41,12 +41,12 @@
 ![alt text][logo21]
 
 [logo21]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen21.png
-![alt text][logo22]
-
-[logo22]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen22.png
 ![alt text][logo15]
 
 [logo15]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen15.png
+![alt text][logo22]
+
+[logo22]: https://github.com/Tomgalanx/Big-Data/blob/main/BigData_Project/Screen22.png
 
 ### 2.5.2. Graphe 2
 
